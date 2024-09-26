@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>47828.jpg</filename>
+	<path>D:\Program Files (x86)\PyCharmproject\yolov5\data\images\47828.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>circle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>303</xmin>
+			<ymin>236</ymin>
+			<xmax>484</xmax>
+			<ymax>419</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,5 @@
+D:\Program Files (x86)\PyCharmproject\datasets\mytxt\images/2024-07-09-1239.jpg
+D:\Program Files (x86)\PyCharmproject\datasets\mytxt\images/2024-07-09-1282.jpg
+D:\Program Files (x86)\PyCharmproject\datasets\mytxt\images/2024-07-09-5539.jpg
+D:\Program Files (x86)\PyCharmproject\datasets\mytxt\images/2024-07-09-6623.jpg
+D:\Program Files (x86)\PyCharmproject\datasets\mytxt\images/2024-07-09-6722.jpg
